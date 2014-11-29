@@ -1,4 +1,10 @@
 <?php
+/**
+ * @class AlfacURl
+ * PHP class to perfrom advanced cURL operations
+ * @author Alfred francis
+ * @link http://prowd.in
+ */
 
 class AlfacURL
 {
