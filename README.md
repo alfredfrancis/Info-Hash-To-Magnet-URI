@@ -1,7 +1,7 @@
 Info Hash To Magnet URI Converter
 ================================
 
-PHP script to Generate Magnet URI from info hash
+PHP script to Generate Magnet URI from info hash. Magnetic URI is used to download Torrent files.
 
 Example
 ======
