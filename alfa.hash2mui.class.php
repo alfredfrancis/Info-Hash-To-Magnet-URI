@@ -1,5 +1,9 @@
 
 <?php
+/**
+ * @author Alfred francis
+ * @link http://prowd.in
+ */
 include_once "alfa.curl.class.php";
 class Hash2mui
 {
