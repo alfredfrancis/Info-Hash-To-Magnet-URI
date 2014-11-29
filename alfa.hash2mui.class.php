@@ -27,9 +27,13 @@ class Hash2mui
 			if($lnk->getAttribute('title')=='Magnet link')
 			{
 				$ui=$lnk->getAttribute('href');
+				return $ui;
+			}
+			else{
+				echo "Tray again later";
 			}
 		}
-		return $ui;
+		
 
 	}
 }
